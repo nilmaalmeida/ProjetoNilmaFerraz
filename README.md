@@ -3,7 +3,7 @@
 - Arquitetura Projeto
 	- Linguagem		- [Java]
 	- Orquestrador de testes - [Eclipse]
-	- Framework de Interação - [Selenium Chrome]
+	- Framework de Interação - [Selenium WebDriver]
 
 # Plano de Teste
 
