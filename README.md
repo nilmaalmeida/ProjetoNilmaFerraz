@@ -24,13 +24,15 @@
 **Caso de Teste: Relatar Caso**
 
 * Relatar Casos de Teste: Relatar os casos de testes a serem atribuídos
-	- Selecionar uma Categoria válida
-	- Selecionar uma Frequencia válida
+  - Selecionar uma Categoria válida
+  - Selecionar uma Frequencia válida
   - Selecionar uma Gravidade válida
   - Selecionar uma Prioridade válida
-  - Selecionar um perfil válido
+  - Selecionar um Perfil válido
+  - Preencher o campo Resumo
+  - Preencher o campo Descrição
   
- **Caso de Teste: Ver Casos**
+   **Caso de Teste: Ver Casos**
 
 * Ver Casos criados: Deverá visualizar os Casos criados
   
